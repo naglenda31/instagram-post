@@ -1,0 +1,63 @@
+html{
+	height: 100%;
+}
+
+body{
+	display: flex;
+	background: #171717;
+	margin: 0;
+	font-family: 'Arimo', sans-serif;
+	font-size: 16px;
+	height: 100%;
+}
+
+.post{
+	background: white;
+	max-width: 450px;
+	max-height: 600px;
+	margin: 50px auto;	
+}
+
+.post-header{
+	display: flex;
+	margin: 15px 15px 5px 15px;
+}
+
+.heading{
+	margin-left: 10px;
+}
+
+.heading p{
+	margin-top: 0;
+}
+
+h4{
+	margin: 0;
+	font-weight: 700;
+}
+
+.list-drop{
+	margin-left: auto;
+}
+
+
+img{
+	max-width: 100%;
+}
+
+.post-options{
+	display: flex;
+	margin: 15px 25px 25px 10px;
+}
+
+.user-actions i{
+	padding: 2.5px;
+}
+
+.save-page{
+	margin-left: auto;
+}
+
+.comment-section{
+	margin-left: 10px;
+}
